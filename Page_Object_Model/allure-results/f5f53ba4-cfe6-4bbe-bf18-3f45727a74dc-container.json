@@ -1,0 +1,1 @@
+{"uuid":"f5f53ba4-cfe6-4bbe-bf18-3f45727a74dc","name":"Setup.SetupTest$setUpTest","children":["f379c9d5-0e5a-47ae-920c-e44448f3ac31"],"befores":[],"afters":[{"name":"closeBrowser","status":"broken","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1611604595827,"stop":1611604595827}],"links":[],"start":1611604558022,"stop":1611604596698}
